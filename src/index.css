@@ -1,0 +1,4 @@
+.choices:hover {
+  border: 1px solid lightgray;
+  box-shadow: 4px 4px 0px 0px lightgray;
+}
