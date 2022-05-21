@@ -1,7 +1,7 @@
 export const questionnaire = [
   {
     question_number: 1,
-    question: "How many hours a week do spend working?",
+    question: "How many days a week do spend working?",
     choices: [
       "A.	Less than two days - I've perfected the game",
       "B.	2-4 days - Enjoying some freedom",
@@ -38,7 +38,7 @@ export const questionnaire = [
       "B.	$150,00-$249,999 p/a",
       "C.	$80,000-$149,999 p/a ",
       "D.	$30,00-$79,999 p/a",
-      "E.	Less than $30,000",
+      "E.	Less than $30,000 p/a",
     ],
     answer: 0,
     scoring: "add 10 points for each 1 eg 1=10 - 2=20",
